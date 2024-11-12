@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">User Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name-</string>
+    <string name="phone">Phone Number-</string>
+    <string name="witness">Witness Numbers-</string>
+    <string name="drawings">My Drawings</string>
+    <string name="playlist">My Playlist</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="butter_cake">Butter Cake</string>
+    <string name="pound_icing_cake">Pound Icing Cake</string>
+    <string name="birthday_icing_cake">Birthday Icing Cake</string>
+    <string name="chocolate_icing_cake">Chocolate Icing Cake</string>
+    <string name="chocolate_cheesecake">Chocolate Cheesecake</string>
+    <string name="lavacake">LavaCake</string>
+    <string name="chocolate_mousse_cake">Chocolate Mousse Cake</string>
+    <string name="go">Next</string>
+    <string name="app">FocusFlow</string>
+    <string name="para1">Enjoy moments of bliss and create lasting memories with each delightful bite</string>
+    <string name="next">Next</string>
+    <string name="profile">Profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="category">Category</string>
+    <string name="home">Home</string>
+    <string name="para2">A rich, creamy cheesecake infused with chocolate, and topped with chocolate ganache or shavings.</string>
+    <string name="para3">A creamy cheesecake made with chocolate, often featuring a chocolate crust.</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Note">Your Note</string>
+    <string name="Timer">Open Timer</string>
+    <string name="widget">Upcoming Tasks</string>
+    <string name="time">sec time left</string>
+    <string name="update_note">Update Your Note</string>
+    <string name="update_btn">Update</string>
+    <string name="Description">Note Description</string>
+    <string name="Title">Note Title</string>
+    <string name="ok">OK</string>
+    <string name="Update">Update</string>
+    <string name="Pick_Time">Time</string>
+    <string name="date">date</string>
+    <string name="Selected_Time">Selected Time</string>
+    <string name="Selected_Date">Selected Date</string>
+    <string name="Add_New_Notes">Add New Notese</string>
+    <string name="Save">Save</string>
+    <string name="Enter_the_Description">Enter the Description</string>
+    <string name="Enter_the_Title">Enter the Title</string>
+</resources>
+

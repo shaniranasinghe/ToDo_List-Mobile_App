@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="holo_pink_dark">#FFC0CB</color>
+    <color name="gray">#717070</color>
+    <color name="pink">#AD51C7</color>
+    <color name="light_pink">#B85375</color>
+    <color name="dark_Blue">#510B6A</color>
+    <color name="lavender_mist">#A68CAF</color>
+    <color name="Plum_Berry">#AF4A92</color>
+    <color name="charcoal_shadow">#383638</color>
+    <color name="moonlit_gray">#9C989D</color>
+    <color name="indigo_glow">#5E74C3</color>
+    <color name="midnight_blue">#303856</color>
+    <color name="deep_mulberry">#2C023A</color>
+    <color name="lime_zest">#CDDC39</color>
+    <color name="sunbeam_yellow">#FFEB3B</color>
+    <color name="mossy_meadow">#C3CA87</color>
+    <color name="violet_majesty">#7732C7</color>
+    <color name="dusty_plum">#75446F</color>
+    <color name="orchid_bloom">#2196F3</color>
+    <color name="lavender_blush">#D9A0ED</color>
+    <color name="crimson_grape">#990B60</color>
+    <color name="max_blue">#30d9ef</color>
+    <color name="min_blue">#96e8f3</color>
+    <color name="teal_200">#FF030AC5</color>
+    <color name="red">#c13b34</color>
+    <color name="light_gray">#6C636D</color>
+
+
+</resources>
+
+
+
+
